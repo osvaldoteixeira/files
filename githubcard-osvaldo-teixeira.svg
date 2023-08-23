@@ -1,1 +1,283 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Camada_2" data-name="Camada 2" viewBox="0 0 375 615">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Gradiente_sem_nome_9-4);
+      }
 
+      .cls-2 {
+        fill: url(#Gradiente_sem_nome_9);
+      }
+
+      .cls-3 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        fill: #8257e5;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        fill: url(#Gradiente_sem_nome_9-2);
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        fill: url(#Gradiente_sem_nome_14);
+      }
+
+      .cls-13 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-17 {
+        opacity: .4;
+      }
+
+      .cls-18 {
+        fill: url(#Gradiente_sem_nome_31);
+      }
+
+      .cls-19 {
+        font-family: Inter-Light, Inter;
+        font-size: 16px;
+        font-variation-settings: 'wght' 300, 'slnt' 0;
+        font-weight: 300;
+      }
+
+      .cls-19, .cls-20, .cls-21 {
+        fill: #e1e1e6;
+      }
+
+      .cls-22 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-23 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-24 {
+        fill: url(#Gradiente_sem_nome_43);
+      }
+
+      .cls-20 {
+        font-family: Inter-SemiBold, Inter;
+        font-size: 13px;
+        font-variation-settings: 'wght' 600, 'slnt' 0;
+        font-weight: 600;
+      }
+
+      .cls-25 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-26 {
+        fill: #202024;
+      }
+
+      .cls-27 {
+        letter-spacing: 0em;
+      }
+
+      .cls-28 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-29 {
+        fill: url(#Gradiente_sem_nome_2);
+      }
+
+      .cls-30 {
+        letter-spacing: 0em;
+      }
+
+      .cls-31 {
+        letter-spacing: 0em;
+      }
+
+      .cls-32 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-21 {
+        font-family: Inter-Bold, Inter;
+        font-size: 24.59px;
+        font-variation-settings: 'wght' 700, 'slnt' 0;
+        font-weight: 700;
+      }
+
+      .cls-33 {
+        fill: none;
+      }
+
+      .cls-34 {
+        fill: url(#Gradiente_sem_nome_16-2);
+      }
+
+      .cls-35 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-36 {
+        mask: url(#mask-1);
+      }
+
+      .cls-37 {
+        mask: url(#mask);
+      }
+
+      .cls-38 {
+        fill: url(#Gradiente_sem_nome_16);
+      }
+
+      .cls-39 {
+        fill: url(#Gradiente_sem_nome_42);
+      }
+
+      .cls-40 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-41 {
+        fill: url(#Gradiente_sem_nome_9-3);
+      }
+
+      .cls-42 {
+        letter-spacing: 0em;
+      }
+
+      .cls-43 {
+        letter-spacing: -.02em;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-33" width="375" height="615"/>
+    </clipPath>
+    <radialGradient id="Gradiente_sem_nome_2" data-name="Gradiente sem nome 2" cx="0" cy="615" fx="0" fy="615" r="1" gradientTransform="translate(184599 41) rotate(-90) scale(300 -300)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff3d6e"/>
+      <stop offset="1" stop-color="#121214" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="Gradiente_sem_nome_43" data-name="Gradiente sem nome 43" cx="0" cy="615" fx="0" fy="615" r="1" gradientTransform="translate(184776 -33) rotate(-90) scale(300 -300)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#228ea8"/>
+      <stop offset="1" stop-color="#121214" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="Gradiente_sem_nome_42" data-name="Gradiente sem nome 42" cx="0" cy="615" fx="0" fy="615" r="1" gradientTransform="translate(184599 41) rotate(-90) scale(300 -300)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#645ccd"/>
+      <stop offset="1" stop-color="#121214" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="mask" x=".96" y="-476.49" width="375.04" height="1230.49" maskUnits="userSpaceOnUse">
+      <g id="mask0_" data-name="mask0 ">
+        <rect class="cls-26" x="1" y="-58" width="375" height="812"/>
+      </g>
+    </mask>
+    <linearGradient id="Gradiente_sem_nome_14" data-name="Gradiente sem nome 14" x1=".15" y1="809.09" x2="504.21" y2="635.67" gradientTransform="translate(0 615) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f30072"/>
+      <stop offset="1" stop-color="#c4c4cc"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_9" data-name="Gradiente sem nome 9" x1="140.82" y1="481.63" x2="47.94" y2="640.15" gradientTransform="translate(0 615) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8257e5"/>
+      <stop offset="1" stop-color="#ff008e" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_9-2" data-name="Gradiente sem nome 9" x1="140.82" y1="589.04" x2="47.94" y2="747.56" xlink:href="#Gradiente_sem_nome_9"/>
+    <linearGradient id="Gradiente_sem_nome_16" data-name="Gradiente sem nome 16" x1="94.6" y1="776.21" x2="280.9" y2="663.79" gradientTransform="translate(0 615) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff008e" stop-opacity="0"/>
+      <stop offset="1" stop-color="#00cd1e"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_16-2" data-name="Gradiente sem nome 16" x1="377.52" y1="500.69" x2="191.23" y2="613.11" xlink:href="#Gradiente_sem_nome_16"/>
+    <linearGradient id="Gradiente_sem_nome_9-3" data-name="Gradiente sem nome 9" x1="238.01" y1="589.04" x2="330.9" y2="747.56" xlink:href="#Gradiente_sem_nome_9"/>
+    <linearGradient id="Gradiente_sem_nome_9-4" data-name="Gradiente sem nome 9" x1="144.72" y1="580.45" x2="237.61" y2="421.94" xlink:href="#Gradiente_sem_nome_9"/>
+    <mask id="mask-1" x="96.93" y="125.29" width="185.3" height="185.08" maskUnits="userSpaceOnUse">
+      <g id="mask1_" data-name="mask1 ">
+        <path class="cls-5" d="m269,172v92l-80,46-80-46v-92l80-46,80,46Z"/>
+      </g>
+    </mask>
+    <clipPath id="clippath-1">
+      <path class="cls-33" d="m274.11,268.59v-99.71l-86.61-49.86-86.61,49.86v99.71l86.61,49.86,86.61-49.86Z"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_31" data-name="Gradiente sem nome 31" x1="93.9" y1="161.43" x2="279.58" y2="275.11" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4d4e54"/>
+      <stop offset="0" stop-color="#4c4d53"/>
+      <stop offset=".07" stop-color="#383e44"/>
+      <stop offset=".15" stop-color="#29333a"/>
+      <stop offset=".25" stop-color="#212c33"/>
+      <stop offset=".4" stop-color="#1f2b32"/>
+      <stop offset=".65" stop-color="#14242a" stop-opacity=".83"/>
+      <stop offset="1" stop-color="#00171a" stop-opacity=".5"/>
+    </linearGradient>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <g class="cls-32">
+      <g>
+        <rect class="cls-26" width="375" height="615"/>
+        <circle class="cls-29" cx="99" cy="41" r="300"/>
+        <circle class="cls-24" cx="276" cy="-33" r="300"/>
+        <circle class="cls-39" cx="99" cy="41" r="300"/>
+        <g class="cls-37">
+          <g id="Triângulo_de_cima" data-name="Triângulo de cima">
+            <path class="cls-12" d="m376,110.1v-478.8l-187.52-107.79L.96-368.7V110.1l187.52,107.79,187.52-107.79Z"/>
+            <g class="cls-17">
+              <path class="cls-2" d="m2.84,3.39v107.4l93.29,53.71,93.29-53.71V3.39l-93.29-53.71L2.84,3.39Z"/>
+              <path class="cls-8" d="m2.84-104.02V3.39l93.29,53.71L189.42,3.39v-107.4l-93.29-53.71L2.84-104.02Z"/>
+              <path class="cls-38" d="m282.71-157.7V-50.29L189.42,3.42l-93.29-53.71v-107.4l93.29-53.71,93.29,53.71Z"/>
+              <path class="cls-34" d="m189.42,110.8V3.39l93.29-53.71L376,3.39v107.4l-93.29,53.71-93.29-53.71Z"/>
+              <path class="cls-41" d="m376-104.02V3.39l-93.29,53.71L189.42,3.39v-107.4l93.29-53.71,93.29,53.71Z"/>
+              <path class="cls-1" d="m282.71,164.53V57.12L189.42,3.42l-93.29,53.71v107.4l93.29,53.71,93.29-53.71Z"/>
+            </g>
+          </g>
+        </g>
+        <g class="cls-36">
+          <g id="Mascara_de_circle" data-name="Mascara de circle">
+            <ellipse class="cls-33" cx="189.58" cy="217.83" rx="92.65" ry="92.54"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Github-Card-Osvaldo_teixeira">
+    <g class="cls-23">
+      <path class="cls-18" d="m280.79,272.44v-107.4l-93.29-53.71-93.29,53.71v107.4l93.29,53.71,93.29-53.71Z"/>
+      <image width="1440" height="1920" transform="translate(100.89 119.02) scale(.12)" xlink:href="https://raw.githubusercontent.com/osvaldoteixeira/files/main/avatar-github-osvaldoteixeira.png"/>
+    </g>
+  </g>
+  <g id="Meus_Textos" data-name="Meus Textos">
+    <text class="cls-21" transform="translate(87.87 362.23)"><tspan x="0" y="0">Os</tspan><tspan class="cls-16" x="33.04" y="0">v</tspan><tspan x="47.08" y="0">aldo </tspan><tspan class="cls-13" x="104.45" y="0">T</tspan><tspan x="118.93" y="0">ei</tspan><tspan class="cls-4" x="140.32" y="0">x</tspan><tspan x="153.93" y="0">ei</tspan><tspan class="cls-28" x="175.32" y="0">r</tspan><tspan x="184.99" y="0">a</tspan></text>
+    <text class="cls-19" transform="translate(122.99 394.16)"><tspan x="0" y="0">@os</tspan><tspan class="cls-35" x="32.64" y="0">v</tspan><tspan x="41.09" y="0">aldo</tspan><tspan class="cls-42" x="72.94" y="0">t</tspan><tspan x="78.58" y="0">ei</tspan><tspan class="cls-40" x="91.58" y="0">x</tspan><tspan class="cls-31" x="99.65" y="0">eira</tspan></text>
+    <text class="cls-20" transform="translate(48.37 448.02)"><tspan class="cls-9" x="0" y="0">F</tspan><tspan class="cls-3" x="7.51" y="0">r</tspan><tspan x="12.37" y="0">on</tspan><tspan class="cls-6" x="28.2" y="0">t</tspan><tspan x="32.91" y="0">-end d</tspan><tspan class="cls-43" x="74.21" y="0">e</tspan><tspan class="cls-15" x="81.71" y="0">v</tspan><tspan x="88.95" y="0">eloper and p</tspan><tspan class="cls-7" x="167.1" y="0">r</tspan><tspan x="171.96" y="0">og</tspan><tspan class="cls-22" x="187.99" y="0">r</tspan><tspan class="cls-30" x="193.01" y="0">ammer junio</tspan><tspan class="cls-25" x="270.43" y="0">r</tspan><tspan class="cls-3" x="274.77" y="0">.</tspan><tspan x="8.2" y="26">I study p</tspan><tspan class="cls-3" x="62.02" y="26">r</tspan><tspan class="cls-27" x="66.88" y="26">og</tspan><tspan class="cls-22" x="82.91" y="26">r</tspan><tspan class="cls-30" x="87.93" y="26">amming and design </tspan><tspan class="cls-10" x="213.94" y="26">t</tspan><tspan class="cls-27" x="218.8" y="26">o c</tspan><tspan class="cls-7" x="237.44" y="26">r</tspan><tspan x="242.3" y="26">ea</tspan><tspan class="cls-11" x="257.48" y="26">t</tspan><tspan x="262.34" y="26">e</tspan><tspan class="cls-43" x="46.36" y="52">e</tspan><tspan class="cls-15" x="53.86" y="52">v</tspan><tspan x="61.1" y="52">er mo</tspan><tspan class="cls-7" x="96.76" y="52">r</tspan><tspan x="101.62" y="52">e beautiful </tspan><tspan class="cls-14" x="171.58" y="52">w</tspan><tspan x="182.28" y="52">ebsi</tspan><tspan class="cls-10" x="208.7" y="52">t</tspan><tspan x="213.57" y="52">es</tspan><tspan class="cls-7" x="228.41" y="52">.</tspan></text>
+  </g>
+</svg>
